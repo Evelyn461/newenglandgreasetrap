@@ -1,0 +1,49 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How often should I have a grease trap or interceptor cleaned?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Cleaning frequency depends on the volume of FOG your kitchen produces and the size of your trap. Many jurisdictions say when the grease layer reaches 25 % of the unit or every 3-months at a minimum.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What happens if I don’t service my grease trap regularly?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> If not maintained, grease traps can overflow, cause sewer backups, foul odours and attract fines from local authorities.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I clean or pump the trap myself?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While possible for small units, professional service is strongly recommended because of regulatory disposal, equipment needs and risk of improper cleaning.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is the difference between a grease trap and a grease interceptor?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> A grease trap is typically smaller, installed indoors or near sinks; an interceptor is larger, often underground or outdoors, handling higher volumes of grease.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are there special disposal requirements for grease waste?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> Yes. The collected grease and sludge must be handled and disposed of in compliance with local, state and federal environmental regulations.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What signs indicate my grease trap needs service soon?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> Slow drains, foul odours, visible grease layer, backups or frequent disposal truck visits are all warning signs.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-346-9061">Click Here To Call Us (801) 346-9061</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
